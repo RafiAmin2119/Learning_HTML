@@ -1,0 +1,1 @@
+alert('last click on ok');
